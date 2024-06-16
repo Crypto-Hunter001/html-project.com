@@ -1,0 +1,22 @@
+body {
+    background: url(/Assets/img/background.png);
+}
+
+header {
+    margin-left: 19cm;
+    margin-top: 2cm;
+    font-family: "Inter", sans-serif;
+    color: rgb(255, 123, 0);
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    overflow: hidden;
+    color: aliceblue;
+   
+}
+
+.content {
+    font-family: "Inter", sans-serif;
+}
